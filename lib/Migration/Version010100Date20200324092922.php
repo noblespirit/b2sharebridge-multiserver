@@ -12,7 +12,7 @@ use OCP\Migration\IOutput;
 /**
  * Auto-generated migration step: Please modify to your needs!
  */
-class Version010200Date20200324092922 extends SimpleMigrationStep {
+class Version010100Date20200324092922 extends SimpleMigrationStep {
 
 	/**
 	 * @param IOutput $output
